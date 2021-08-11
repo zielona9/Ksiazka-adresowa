@@ -1,0 +1,8 @@
+6|Aldona|Piecztkowska|980 980 980|aga@pieczatkowska.pl|ul. Polki 3; 01-029 Warszawa|
+7|Halina|Cacko|789 789 789|agata@cacko.pl|ul. Krasinskiego 80; 05-090 Raszyn|
+8|Agata|Guzikowa|456 456 456|agata@guzikowa.pl|ul. Koscielna 8; 01 038 Warszawa|
+9|Halina|Pietruszka|890 897 897|||
+11|Agata|Guzik|678 678 678|aga@guzik.pl|ul. Korzenna 3; 05-090 Raszyn|
+12|Agnieszka|Guzik|697 697 697|aga@guz.pl|ul. Polna 5;01-033 Warszawa|
+13|Agata|Grzybek|560 560 560|grzybek@wp.pl|ul.Grzybowska 43/3;01-033 Warszawa|
+14|Angelika|Guzik|342 432 432|angelika@guzik.pl|ul.Polki 3; 01- 044 Warszawa|

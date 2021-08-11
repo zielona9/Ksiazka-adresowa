@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628187800 source:c:\programista\arkusz_probny\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<stdio.h>
+	<ctype.h>
+	<iomanip>
+	<windows.h>
+	<vector>
+	<algorithm>
+
